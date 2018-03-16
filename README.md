@@ -1,4 +1,4 @@
 # hello-world
 a repository
 
-I'm about to start Coding Dojo
+my third attempt of the Tutorial
